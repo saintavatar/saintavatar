@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saintavatar
+- 👋 Hi, I’m Joseph 
 - 👀 I’m interested in ... got to have some mystery 
 - 🌱 I’m currently Enrolled in college at SNHU, I am studing a Major in Computer Science with a Minor in Applied Mathematics
 - 💞️ I’m looking to collaborate on events, projects and pretty much anything to help me gain knowledge in a Computer Science\Cybersecurity career
